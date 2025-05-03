@@ -7,7 +7,7 @@ from langchain_google_firestore import FirestoreChatMessageHistory
 
 load_dotenv()
 
-PROJECT_ID = "ai-bot-4a938"
+PROJECT_ID = "langchain-50e8d"
 SESSION_ID = "user_session"
 COLLECTION_NAME = "chat_history"
 
